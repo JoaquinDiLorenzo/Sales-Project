@@ -6,7 +6,7 @@ This project aims to analyze sales data, grouping it by different categories and
 
 ## 📍 Analysis Questions
 
-*The following questions are addressed and analyzed in the project's Jupyter notebook:*
+*The following questions are addressed and analyzed in the  last part of the project's Jupyter notebook:*
 
 1. **What was the best month for sales? How much was earned that month?**
 
