@@ -49,14 +49,4 @@ The following technologies were used to analyze and visualize the data:
 
 - [@JoaquinDiLorenzo](https://github.com/JoaquinDiLorenzo)
 
-<br>
 
----
-
-## 💬 How to Run the Project
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/sales-analysis-project.git
