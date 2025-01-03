@@ -30,6 +30,8 @@ This project aims to analyze sales data, grouping it by different categories and
 
 <br>
 
+- [Jupyter Doc Web](https://nbviewer.org/github/JoaquinDiLorenzo/Sales-Project/blob/main/SalesAnalysis.ipynb)
+
 ---
 
 ## 🔧 Technologies Used
